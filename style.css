@@ -15,8 +15,8 @@ body {
 .container {
   margin: 200px auto;
   /* background-color: aliceblue; */
-  max-width: 600px;
-  height: 500px;
+  max-width: 500px;
+  height: 650px;
   border-radius: 10px;
   box-shadow: 15px 5px 15px #e1d5c4, -10px -10px 15px #fff6eb;
   padding: 25px;
@@ -42,7 +42,7 @@ body {
 }
 
 .container h2 {
-  margin-top: 20px;
+  margin-top: 25px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #652121;
@@ -52,10 +52,11 @@ body {
   text-align: center;
   font-weight: 600;
   font-size: 1.2em;
+  margin-top: 5px;
 }
 .container p {
   text-align: justify;
-  margin-top: 15px;
+  margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
 }
